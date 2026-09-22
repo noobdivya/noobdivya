@@ -88,25 +88,7 @@ job postings, applications, offers, campus drives and reports.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=noobdivya&show_icons=true&theme=radical&hide_border=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=noobdivya&theme=radical&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobdivya&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=noobdivya&theme=radical&hide_border=true&area=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=noobdivya&theme=radical&hide_border=true" />
 
 </div>
 
