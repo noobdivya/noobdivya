@@ -55,17 +55,19 @@ A WhatsApp-based clinic token and queue management platform designed to make the
 
 **Tech:** Go · Next.js · React · TypeScript · PostgreSQL · Docker
 
-### 🤖 AI Assistant
+### 🤖 [AI Assistant](https://github.com/noobdivya/AI-assistant)
 
 A Python-based AI assistant using NLP and speech-related technologies.
 
 **Tech:** Python · NLP · Speech Recognition
 
-### 🎯 Aim Trainer
+### 🎓 Placement Hub
 
-A Python-based aim-training game built to practice reaction and aiming skills.
+A full-stack campus placement portal — separate student, recruiter and placement-cell workflows, eligibility-aware
+job postings, applications, offers, campus drives and reports.
 
-**Tech:** Python · Pygame
+**Live:** [placementhub-sepia.vercel.app](https://placementhub-sepia.vercel.app)
+**Tech:** Go · PostgreSQL (Neon) · Next.js · React · TypeScript · Docker · deployed on Vercel + Render
 
 ---
 
@@ -104,7 +106,7 @@ A Python-based aim-training game built to practice reaction and aiming skills.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=noobdivya&theme=redical&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=noobdivya&theme=radical&hide_border=true&area=true" />
 
 </div>
 
