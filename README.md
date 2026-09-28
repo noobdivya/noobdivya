@@ -55,11 +55,15 @@ A WhatsApp-based clinic token and queue management platform designed to make the
 
 **Tech:** Go · Next.js · React · TypeScript · PostgreSQL · Docker
 
-### 🤖 [AI Assistant](https://github.com/noobdivya/AI-assistant)
+### 🏙️ CivicFix
 
-A Python-based AI assistant using NLP and speech-related technologies.
+A civic issue management platform: citizens report potholes, broken streetlights, garbage and water leaks with photos
+and a map pin, then track them; department officers review and assign, field workers resolve with proof, and admins
+see city-wide analytics.
 
-**Tech:** Python · NLP · Speech Recognition
+**Live:** [civic-fix-eight-delta.vercel.app](https://civic-fix-eight-delta.vercel.app/)<br>
+**Code:** [Frontend](https://github.com/noobdivya/CivicFix-frontend) · [Backend](https://github.com/noobdivya/CivicFix-Backend)<br>
+**Tech:** Go · PostgreSQL (Neon) · Next.js · React · TypeScript · Leaflet · Docker · deployed on Vercel + Render
 
 ### 🎓 Placement Hub
 
