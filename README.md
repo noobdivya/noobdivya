@@ -49,6 +49,16 @@
 
 ## 🚀 Projects
 
+### 💬 NodeX
+
+A peer-to-peer chat app that runs in the browser: your identity is a key pair created on your device (a handle like
+`Rahul#7K3M9X`, restored with a 12-word recovery phrase), people find each other through a DHT, and messages, photos
+and files go browser to browser, end-to-end encrypted. No database stores users, contacts or messages.
+
+**Live:** [node-x-frontend-red.vercel.app](https://node-x-frontend-red.vercel.app)<br>
+**Code:** [Frontend](https://github.com/noobdivya/NodeX-frontend) · [Backend](https://github.com/noobdivya/NodeX-backend)<br>
+**Tech:** Next.js · React · TypeScript · libp2p · WebRTC · Kademlia DHT · Web Crypto · Go · Docker · deployed on Vercel + Render
+
 ### 🏥 Meri Baari
 
 A WhatsApp-based clinic token and queue management platform designed to make the patient waiting process simpler.
